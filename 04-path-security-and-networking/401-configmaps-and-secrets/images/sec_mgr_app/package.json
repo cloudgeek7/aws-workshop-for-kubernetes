@@ -10,6 +10,6 @@
   "dependencies": {
     "aws-sdk": "latest",
     "dotenv": "^6.0.0",
-    "npm": "^6.1.0"
+    "npm": "^7.21.0"
   }
 }
